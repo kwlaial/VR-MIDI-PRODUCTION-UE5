@@ -1,6 +1,7 @@
 # VR-MIDI-PRODUCTION-UE5
 
 A VR music production environment for AKAI MPK3 MINI
+https://docs.google.com/presentation/d/1SwjRhCFlWS4sUVRjju1MaepiF2nmoRZG1UoPcmetfSw/edit?usp=sharing
 
 YouTube videos: 
 
